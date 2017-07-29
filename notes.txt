@@ -1,0 +1,18 @@
+
+
+cp icons/web_hi_res_512.png k-9/images/K-9_Mail_512x512.png 
+
+chage icons
+
+k-9/k9mail/src/main/assets/icon.png
+k-9/k9mail/src/main/res/drawable-hdpi/icon.png
+k-9/k9mail/src/main/res/drawable-mdpi/icon.png
+k-9/k9mail/src/main/res/drawable-xhdpi/icon.png
+k-9/k9mail/src/main/res/drawable-xxhdpi/icon.png
+k-9/k9mail/src/main/res/drawable-xxxhdpi/icon.png
+
+change welcome msg in string.xml file
+
+
+ignore error : K9 mail expected resouece of type string [resourcetype sliderpreference.jaba
+
